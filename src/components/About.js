@@ -5,6 +5,8 @@ import Intro from "./about/Intro";
 import KnowledgeInterests from "./about/KnowledgeInterests";
 import Skills from "./about/Skills1";
 import Testimonials from "./about/Testimonials";
+import PersonalInfo from "./about/PersonalInfo";
+
 const About = () => {
   return (
     <SectionContainer name={"about"}>
@@ -18,6 +20,7 @@ const About = () => {
           <Intro />
         </div>
       </div>
+      <PersonalInfo />
       {/* <Skills /> */}
       {/* <KnowledgeInterests /> */}
       {/* <EducationExperience /> */}
