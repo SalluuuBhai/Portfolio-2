@@ -112,7 +112,7 @@ const Intro = () => {
         {/* <a href="assets/pdf/Resume MD_SalmanFaris.S09'24.pdf" download>
           <span>Download CV</span>
         </a> */}
-        <a href="assets/pdf/Resume MD_SalmanFaris.S09'24.pdf" target="_blank">
+        <a href="https://drive.google.com/file/d/1rWxzeVHIpsVxn-AoDlIu7IYQaeARiC5L/view?usp=sharing" target="_blank">
           <span>Download CV</span>
         </a>
         {/* <a href="assets/pdf/MD_SalmanFaris_FSD-Resume.pdf" target="_blank">
