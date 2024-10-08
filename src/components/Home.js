@@ -25,7 +25,7 @@ const Home = () => {
                 Mohamed <br></br><span className="font-extrabold">Salman Faris</span>
               </h3>
               <p className="job font-montserrat font-medium max-w-[450px] mb-[25px]">
-              As a Full-stack JS Developer, I harness JavaScript, React, Next.js, Angular, and Node.js to build engaging, user-centric web applications. I am knowledgeable about backend and frontend development requirements, including database management. I handle any part of the process with ease. I am a collaborative team player with a willingness to learn and grow with the organization. Let's make technology work for us by creating solutions that are both innovative and accessible.
+              As a Full-stack JS Developer, I harness JavaScript, TypeScript, React, Next.js, Angular, and Node.js to build engaging, user-centric web applications. I am knowledgeable about backend and frontend development requirements, including database management. I handle any part of the process with ease. I am a collaborative team player with a willingness to learn and grow with the organization. Let's make technology work for us by creating solutions that are both innovative and accessible.
               </p>
               <div className="social w-full float-left" style={{ marginBottom: '150px' }}>
                 <ul className="m-0 list-none">

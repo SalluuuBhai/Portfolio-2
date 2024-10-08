@@ -4,15 +4,15 @@ const programming = [
   { id: 3, name: "JavaScript", value: 70 },
   { id: 4, name: "TypeScript", value: 60 },
   { id: 5, name: "React", value: 80 },
-  { id: 6, name: "Next JS", value: 65 },
-  { id: 7, name: "Angular", value: 35 },
+  { id: 6, name: "Next JS", value: 70 },
+  { id: 7, name: "Angular", value: 50 },
   { id: 8, name: "Node JS", value: 70 },
   { id: 9, name: "Mongo DB", value: 80 },
   { id: 10, name: "MY SQL", value: 65 },
 ];
 const language = [
   { id: 1, name: "Bootstrap", value: 85 },
-  { id: 2, name: "Tailwind CSS", value: 70 },
+  { id: 2, name: "Tailwind CSS", value: 85 },
   { id: 3, name: "MeMaterial UI", value: 80 },
   { id: 3, name: "Ant Design", value: 70 },
 ];
